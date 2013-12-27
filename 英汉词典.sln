@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "英汉词典", "英汉词典\英汉词典.csproj", "{980EC982-A8FB-4055-932E-12C77F9C8C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "textbox问题", "textbox问题\textbox问题.csproj", "{FDE9D7D1-3896-48B1-99EC-936AC1C00D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980EC982-A8FB-4055-932E-12C77F9C8C13}.Debug|x86.ActiveCfg = Debug|x86
+		{980EC982-A8FB-4055-932E-12C77F9C8C13}.Debug|x86.Build.0 = Debug|x86
+		{980EC982-A8FB-4055-932E-12C77F9C8C13}.Release|x86.ActiveCfg = Release|x86
+		{980EC982-A8FB-4055-932E-12C77F9C8C13}.Release|x86.Build.0 = Release|x86
+		{FDE9D7D1-3896-48B1-99EC-936AC1C00D0C}.Debug|x86.ActiveCfg = Debug|x86
+		{FDE9D7D1-3896-48B1-99EC-936AC1C00D0C}.Debug|x86.Build.0 = Debug|x86
+		{FDE9D7D1-3896-48B1-99EC-936AC1C00D0C}.Release|x86.ActiveCfg = Release|x86
+		{FDE9D7D1-3896-48B1-99EC-936AC1C00D0C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
